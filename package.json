@@ -1,0 +1,31 @@
+{
+  "name": "facebook-page-tab",
+  "version": "0.0.1",
+  "description": "Authentication methods and applications for creating tabbed pages in facebook",
+  "author": "Paulo McNally <paulomcnally@gmail.com>",
+  "keywords": [
+    "facebook",
+    "application",
+    "page",
+    "auth",
+    "fb"
+  ],
+  "dependencies": {
+    "async": "^0.8.0",
+    "fb-signed-parser": "0.0.3",
+    "qs": "^0.6.6",
+    "request": "^2.34.0"
+  },
+  "directories": {
+    "lib": "./lib/fpt"
+  },
+  "main": "./index.js",
+  "bugs": {
+    "url": "https://github.com/paulomcnally/node-facebook-page-tab/issues/new",
+    "email": "paulomcnally@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/paulomcnally/node-facebook-page-tab.git"
+  }
+}
