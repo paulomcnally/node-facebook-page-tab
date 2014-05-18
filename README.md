@@ -24,7 +24,7 @@ Create a package.json file
         "body-parser": "^1.2.0",
         "cookie-parser": "^1.1.0",
         "express-session": "^1.1.0",
-        "facebook-page-tab": "0.0.3"
+        "facebook-page-tab": "0.0.7"
       }
     }
 
