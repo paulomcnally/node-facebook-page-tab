@@ -1,6 +1,6 @@
 {
   "name": "facebook-page-tab",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Authentication methods and applications for creating tabbed pages in facebook",
   "author": "Paulo McNally <paulomcnally@gmail.com>",
   "keywords": [
